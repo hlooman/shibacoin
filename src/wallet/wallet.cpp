@@ -11,6 +11,7 @@
 #include "chain.h"
 #include "shibacoin.h"
 #include "shibacoin-fees.h"
+#include "fs.h"
 #include "wallet/coincontrol.h"
 #include "consensus/consensus.h"
 #include "consensus/validation.h"
