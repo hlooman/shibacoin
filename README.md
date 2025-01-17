@@ -15,7 +15,7 @@ The Shibacoin Core software allows anyone to operate a node in the Shibacoin blo
 For information about the default fees used on the Shibacoin network, please
 refer to the [fee recommendation](doc/fee-recommendation.md).
 
-**Website:** [shibainucoin.net](https://shibainucoin.net)
+**Website:** [shibapow.org](https://shibapow.org)
 
 ## Dogecoin Differences
 

@@ -14,7 +14,7 @@ Shibacoin是由2013年原始Dogecoin shibes之一创建的社区关注的加密�
 
 有关Shibacoin网络上使用的默认费用的信息，请参阅[费用建议](doc/fee-recommendation.md)。
 
-**网站:** [shibainucoin.net](https://shibainucoin.net)
+**网站:** [shibapow.org](https://shibapow.org)
 
 ## Dogecoin 差异
 

@@ -14,7 +14,7 @@ Shibacoin Core [SHIC, ₷]
 
 برای اطلاعات در مورد کارمزد‌های پیشفرض استفاده شده در شبکه پپکوین، لطفاً به [توصیه کارمزد](doc/fee-recommendation.md) مراجعه کنید.
 
-**وب‌سایت:** [shibainucoin.net](https://shibainucoin.net)
+**وب‌سایت:** [shibapow.org](https://shibapow.org)
 
 ## تفاوت‌های دوجکوین
 

@@ -14,7 +14,7 @@ Assim como o Dogecoin, o software Shibacoin Core permite que qualquer pessoa ope
 
 Para informações sobre as taxas padrão usadas na rede Shibacoin, por favor consulte a [recomendação de taxas](doc/fee-recommendation.md).
 
-**Website:** [shibainucoin.net](https://shibainucoin.net)
+**Website:** [shibapow.org](https://shibapow.org)
 
 ## Diferenças do Dogecoin
 

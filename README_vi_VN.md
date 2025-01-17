@@ -14,7 +14,7 @@ Giống như Dogecoin, phần mềm Nhân Tố Shibacoin cho phép bất kỳ ai
 
 Để biết thông tin về các mức phí mặc định được sử dụng trên mạng lưới Shibacoin, vui lòng tham khảo [đề xuất phí](doc/fee-recommendation.md).
 
-**Trang web:** [shibainucoin.net](https://shibainucoin.net)
+**Trang web:** [shibapow.org](https://shibapow.org)
 
 ## Sự Khác Biệt với Dogecoin
 
