@@ -16,7 +16,6 @@ packages:
 - "libtiff-tools"
 - "libtool"
 - "automake"
-- "autoconf-archive"
 - "faketime"
 - "bsdmainutils"
 - "cmake"
@@ -31,6 +30,7 @@ packages:
 - "fonts-tuffy"
 - "libtinfo5"
 - "xorriso"
+- "autoconf-archive"
 remotes:
 - "url": "https://github.com/hans-tm/shibacoin.git"
   "dir": "shibacoin"

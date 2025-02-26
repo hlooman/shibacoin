@@ -23,7 +23,6 @@ packages:
 - "autoconf"
 - "libtool"
 - "automake"
-- "autoconf-archive"
 - "make"
 - "faketime"
 - "bison"
@@ -32,6 +31,7 @@ packages:
 - "python3"
 - "python3-setuptools"
 - "python3-pip"
+- "autoconf-archive"
 remotes:
 - "url": "https://github.com/hans-tm/shibacoin.git"
   "dir": "shibacoin"
