@@ -51,7 +51,7 @@ Standalone script to perform the gitian build of Shibacoin Core. Perform
 deterministic build for multiples Operating System, using Docker, LXC or
 KVM for virtualization. Sign binaries using PGP.
 
-Uses https://github.com/devrandom/gitian-builder to execute the build.
+Uses https://github.com/hans-tm/gitian-builder to execute the build.
 
 Arguments:
 version             Version number, commit, or branch to build. If building a
@@ -260,7 +260,7 @@ fi
 if [[ $setup == true ]]; then
     git clone https://github.com/shibacoinppc/gitian.sigs.git
     git clone https://github.com/shibacoinppc/shibacoin-detached-sigs.git
-    git clone https://github.com/devrandom/gitian-builder.git
+    git clone https://github.com/hans-tm/gitian-builder.git
 
     pushd ./gitian-builder
 
