@@ -1,5 +1,5 @@
 ---
-name: "shibacoin-win-1.0.1"
+name: "shibacoin-win-1.0.3.0"
 enable_cache: true
 suites:
 - "focal"
@@ -13,6 +13,7 @@ packages:
 - "autoconf"
 - "libtool"
 - "automake"
+- "autoconf-archive"
 - "make"
 - "faketime"
 - "bsdmainutils"
@@ -25,7 +26,7 @@ packages:
 - "python3-pip"
 - "rename"
 remotes:
-- "url": "https://github.com/shibacoinppc/shibacoin.git"
+- "url": "https://github.com/hans-tm/shibacoin.git"
   "dir": "shibacoin"
 files:
 - "lief-0.12.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl"

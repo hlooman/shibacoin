@@ -1,5 +1,5 @@
 ---
-name: "shibacoin-osx-1.0.1"
+name: "shibacoin-osx-1.0.3.0"
 enable_cache: true
 suites:
 - "focal"
@@ -16,6 +16,7 @@ packages:
 - "libtiff-tools"
 - "libtool"
 - "automake"
+- "autoconf-archive"
 - "faketime"
 - "bsdmainutils"
 - "cmake"
@@ -31,7 +32,7 @@ packages:
 - "libtinfo5"
 - "xorriso"
 remotes:
-- "url": "https://github.com/shibacoinppc/shibacoin.git"
+- "url": "https://github.com/hans-tm/shibacoin.git"
   "dir": "shibacoin"
 files:
 - "MacOSX10.11.sdk.tar.gz"

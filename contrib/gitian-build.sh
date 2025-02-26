@@ -37,7 +37,7 @@ test=false
 # Other Basic variables
 SIGNER=
 VERSION=
-url=https://github.com/shibacoinppc/shibacoin
+url=https://github.com/hans-tm/shibacoin
 proc=2
 mem=2000
 scriptName=$(basename -- "$0")
