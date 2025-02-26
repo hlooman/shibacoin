@@ -32,7 +32,7 @@ packages:
 - "python3-setuptools"
 - "python3-pip"
 - "autoconf-archive"
-- "libx11-xcb"
+- "libx11-xcb1"
 - "libx11-xcb-dev"
 remotes:
 - "url": "https://github.com/hans-tm/shibacoin.git"
