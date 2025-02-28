@@ -6,7 +6,7 @@
 # file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 # Systems to build
-DESCRIPTORS=('win' 'osx' 'linux')
+DESCRIPTORS=('osx' 'win' 'linux')
 SIGN_DESCRIPTORS=('win-signer' 'osx-signer')
 
 # Gitian properties
